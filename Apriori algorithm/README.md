@@ -1,3 +1,5 @@
+## Apriori algorithm
+
 The Apriori algorithm is capable of extracting frequently occurring category sets from the provided data. Here, the input file is a text file consisting of category lists. Each line corresponds to one category list, where the list consists of a number of category instances separated by semicolons.
 
 In this implementation, single_item_mining.py, all frequent categories of length-1, along with their absolute support counts, are mined and written to a text file titled "patterns.txt". Each line in this file represents a single frequent category and follows the format: `support:category`.
