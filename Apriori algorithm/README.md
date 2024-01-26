@@ -1,0 +1,1 @@
+The Apriori algorithm is capable of extracting frequently occurring category sets from the provided data. In this implementation, all frequent categories of length-1, along with their absolute support counts, are written to a text file titled "patterns.txt". Each line in this file represents a single frequent category and follows the format: `support:category`.
