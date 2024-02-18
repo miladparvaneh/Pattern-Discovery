@@ -1,4 +1,4 @@
-## Apriori algorithm for frequent itemset mining
+## Apriori algorithm for mining frequent itemsets
 
 This implementation of the Apriori algorithm is capable of extracting frequently occurring category sets from provided data. The input file should be in the form of a text file consisting of category lists. Each line should correspond to one category list, where the list consists of a number of category instances separated by semicolons.
 
